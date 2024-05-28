@@ -1,4 +1,4 @@
-#Sentiment Analysis on Financial News (In Progress)
+# Sentiment Analysis on Financial News (In Progress)
 
 Overview  
 This project focuses on performing sentiment analysis on financial news articles. The aim is to classify the sentiment of news articles into categories such as positive, negative, or neutral. The project utilizes a neural network model built with the TensorFlow library, leveraging data sourced from Kaggle.
